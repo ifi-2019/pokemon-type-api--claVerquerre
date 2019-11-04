@@ -1,3 +1,6 @@
+import com.ifi.controller.Controller;
+import com.ifi.controller.RequestMapping;
+
 @Controller
 public class HelloController {
 
